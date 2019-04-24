@@ -1,0 +1,24 @@
+DAY 1
+Git 学习目标和任务
+
+1 掌握git命令的使用
+2 熟悉github
+3 了解一个git工具
+4 与IDE集成
+
+1 注册github和gitee账号
+2 在github上创建一个repo （以后的代码都在这个repo上跟踪）
+3 在repo里面创建readme.md
+4 学会用markdown语法编辑readme文件
+5 提交并push修改
+6 在gitee上建一个相同的repo同步把改动push到gitee 
+7 再次修改readme.md
+8 提交并推送 github
+9 将readme.md 退回修改前的版本
+10 提交并推送 github 和 gitee
+11 创建dev分支
+12 将本地切换为dev分支
+13 修改readme.md
+14 将修改提交到dev分支并推送
+15 切换到master分支并merge dev分支的修改
+16 推送到github和gitee
